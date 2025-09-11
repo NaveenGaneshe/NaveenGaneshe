@@ -13,10 +13,38 @@
         0 0 40px #3b82f6,
         0 0 55px #0ea5e9,
         0 0 75px #3b82f6;
+      animation: pulse 2s infinite alternate;
   ">
+
     Dream. Code. Deploy. ✨
   </h2>
 </div>
+
+<style>
+  @keyframes pulse {
+    0% {
+      text-shadow:
+        0 0 5px #3b82f6,
+        0 0 10px #3b82f6,
+        0 0 20px #0ea5e9,
+        0 0 30px #0ea5e9,
+        0 0 40px #3b82f6,
+        0 0 55px #0ea5e9,
+        0 0 75px #3b82f6;
+    }
+    100% {
+      text-shadow:
+        0 0 10px #3b82f6,
+        0 0 20px #3b82f6,
+        0 0 30px #0ea5e9,
+        0 0 40px #0ea5e9,
+        0 0 50px #3b82f6,
+        0 0 70px #0ea5e9,
+        0 0 100px #3b82f6;
+    }
+  }
+</style>
+
 
 
 ## ⚡ About Me  
