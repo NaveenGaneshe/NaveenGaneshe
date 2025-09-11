@@ -21,8 +21,8 @@
 
 ## 📊 GitHub Vitals
 
-[![YourName’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/YourUsername)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=YourUsername&layout=compact&theme=radical)  
+[![YourName’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveenganeshe&show_icons=true&theme=radical)](https://github.com/YourUsername)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=naveenganeshe&layout=compact&theme=radical)  
 
 ---
 
