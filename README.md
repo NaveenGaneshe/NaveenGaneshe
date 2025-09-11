@@ -1,8 +1,7 @@
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,dotnet,cs,angular,typescript,python,github,git,vscode&theme=dark" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=$+Hello+World!;Welcome+to+Naveen's+Repo;>+AI+%26+D365+Developer;>+Power+Apps+%7C+Solution+Architect" />
 </p>
-<h2 align="center">🚀 Naveen Ganeshe — AI Enthusiast & D365 / Power Apps Specialist</h2>
+
 
 
 ## ⚡ About Me  
