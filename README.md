@@ -1,84 +1,61 @@
-<!-- Animated Header / Hero Banner -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,4,8,12&height=220&section=header&fontSize=65&text=NaveenGaneshe·AI-/-D365/PowerApps"
-    alt="AI / D365 Dev Banner"
-  />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF00FF&center=true&vCenter=true&lines=Naveen+Ganeshe;AI+Enthusiast;D365+%7C+Power+Apps+Expert;Solution+Architect" />
+</h1>
 
-<h1 align="center">🚀 Naveen Ganeshe — AI Enthusiast & D365 / Power Apps Specialist</h1>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NaveenGaneshe&color=00ffea" alt="Profile Views" /> &nbsp;
-  <img src="https://badgen.net/badge/Active-Today?icon=clock&label=Active%20Today&color=cyan" alt="Active Today" />
-</p>
-
----
-
-## 🧠 Summary & Core Strengths
-
-- 10+ years in IT industry; expert in solution architecture & core development  
-- 8+ years focused on Microsoft Dynamics CRM: installation, customization, extension, production support  
-- Proficient in custom entities, client-side scripting (JavaScript), Business Process Flows, SSRS reports  
-- Microsoft Certified: Power Apps, Power Automate, PCF, Solution Architect etc.  
-- Experienced with Web API integrations, plugins, workflows, custom services, data migrations  
-
----
-
-## 🔧 Key Skills & Tools
+## ⚡ About Me  
+- 🔥 10+ years in IT industry — solution architecture & development  
+- ⚡ 8+ years with Microsoft Dynamics CRM & Power Platform  
+- 🏆 Microsoft Certified: Power Apps, Power Automate, PCF, Solution Architect  
+- 🤖 AI Enthusiast | Bot Framework | RPA (UiPath) | Azure  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-ASP.NET-MVC-#239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power_Apps-Dataverse-#0078d4?logo=microsoft_powerapps&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dynamics_CRM-&-Customization-#008272?logo=microsoft_dynamics365&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-&-TypeScript-#3178c6?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web_API-Integrations-#f0db4f?logo=webapi&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/.NET_Core-//.NET_Framework-#512bd4?logo=.net&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Angular-/-Express-JS-#dd1b16?logo=angular&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL___/MariaDB-Databases-#4479a1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/D365-%2300FFFF.svg?&style=for-the-badge&logo=microsoft-dynamics-365&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power_Apps-%23FF00FF.svg?&style=for-the-badge&logo=powerapps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-%230096FF.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-ML-%23FFFF00.svg?&style=for-the-badge&logo=python&logoColor=black" />
 </p>
 
 ---
 
-## 📊 GitHub Activity & Stats
-
-[![NaveenGaneshe’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaveenGaneshe&show_icons=true&theme=radical&count_private=true)](https://github.com/NaveenGaneshe)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenGaneshe&layout=compact&theme=radical)](https://github.com/NaveenGaneshe)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Demo / Screenshot | Description |
-|---|--------------------|-------------|
-| **[PCF-Controls](https://github.com/NaveenGaneshe/PCF-Controls)** | <br> ![PCF Controls Demo](https://raw.githubusercontent.com/NaveenGaneshe/PCF-Controls/main/path/to/your_screenshot.png) <br> | A set of custom UI controls built with Power Apps Component Framework (PCF) to enhance user experience and visuals in Dynamics CRM / Power Apps forms. |
-| **[DynamicCRMWebAPI](https://github.com/NaveenGaneshe/DynamicCRMWebAPI)** | <br> ![WebAPI Demo](https://raw.githubusercontent.com/NaveenGaneshe/DynamicCRMWebAPI/main/path/to/your_demo.gif) <br> | Utility library facilitating custom Web API calls & integrations for Dynamics CRM / Dataverse—makes data operations, migrations, and cross-system workflows smoother. |
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NaveenGaneshe&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenGaneshe&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ---
 
-## 📚 Notable Experience Highlights
+## 🚀 Featured Projects  
 
-- Lead Developer on Time Card Management system: geolocation, SharePoint integration, schedules, approvals  
-- HealthCare Management System: HL7 integration, assessments, dynamic workflows  
-- Membership & Grants Portal: tribal grants, multi-user roles, bot integration, external service integrations  
-- Insurance Process Management: lead capture, policy workflows, payment / claim integration, RPA automation  
-
----
-
-## 🎓 Certifications
-
-- Microsoft Certified: Power Platform Functional Consultant (PL-200, PL-900)  
-- Solution Architect: Power Platform (PL-600)  
-- Certified Trainer & Developer in Microsoft Azure / Web Services  
+| Project | Demo | Description |
+|---------|------|-------------|
+| **[PCF-Controls](https://github.com/NaveenGaneshe/PCF-Controls)** | <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="250"/> | Custom UI controls for Power Apps with cyberpunk-styled UX. |
+| **[DynamicCRMWebAPI](https://github.com/NaveenGaneshe/DynamicCRMWebAPI)** | <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/> | Utility library for simplifying Web API integrations in Dynamics CRM. |
 
 ---
 
-## 🔗 Connect with Me
+## 🎓 Certifications  
+- Microsoft Certified Professional — Azure & Web Services  
+- Power Platform Functional Consultant (PL-200, PL-900)  
+- Power Platform Solution Architect (PL-600)  
+- Microsoft Certified Trainer  
 
+---
+
+## 🔗 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/naveen-ganeshe">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:n.ganeshe@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-Me-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" width="600" />
+</p>
