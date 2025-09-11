@@ -1,9 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF00FF&center=true&vCenter=true&lines=Naveen+Ganeshe;AI+Enthusiast;D365+%7C+Power+Apps+Expert;Solution+Architect" />
-</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=250&section=header&text=Naveen%20Ganeshe%20🚀&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="100%" height="250"/>
 </p>
+<h1 align="center">🚀 Naveen Ganeshe — AI & D365 Specialist</h1>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## ⚡ About Me  
