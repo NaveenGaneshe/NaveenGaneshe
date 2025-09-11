@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=250&section=header&text=Code%20Artisan%20&%20Builder%20Extraordinaire🚀&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=250&section=header&text=Naveen%20Ganeshe%20🚀&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center" style="font-size:24px; color:#ffffff; margin-top:-20px;">
+  Dream. Code. Deploy. ✨
 </p>
 
 
