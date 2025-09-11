@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=$+Hello+World!;Welcome+to+Naveen's+Repo;>+AI+%26+D365+Developer;>+Power+Apps+%7C+Solution+Architect" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=250&section=header&text=Naveen%20Ganeshe%20🚀&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 
