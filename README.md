@@ -1,10 +1,4 @@
-👉 Directly shows as a code snippet on your profile (developer-first vibe).  
 
----
-
-## ⚡ Option 3: **Animated Dev Icons Banner**
-Use a flowing banner with tech icons.  
-```md
 <p align="center">
   <img src="https://skillicons.dev/icons?i=azure,dotnet,cs,angular,typescript,python,github,git,vscode&theme=dark" />
 </p>
