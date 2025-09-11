@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=250&section=header&text=Dream.%20Code.%20Deploy.%20✨&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0ea5e9&height=250&section=header&text=Dream.%20Code.%20Deploy.%20✨&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 
