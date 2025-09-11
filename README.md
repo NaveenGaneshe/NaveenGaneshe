@@ -1,6 +1,22 @@
-<p align="center">
+<div style="text-align:center; margin-top:20px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0ea5e9&height=250&section=header&text=Dream.%20Code.%20Deploy.%20✨&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-</p>
+
+  <h2 style="
+      color: #ffffff;
+      font-size: 32px;
+      margin-top: -40px;
+      text-shadow:
+        0 0 5px #3b82f6,
+        0 0 10px #3b82f6,
+        0 0 20px #0ea5e9,
+        0 0 30px #0ea5e9,
+        0 0 40px #3b82f6,
+        0 0 55px #0ea5e9,
+        0 0 75px #3b82f6;
+  ">
+    Dream. Code. Deploy. ✨
+  </h2>
+</div>
 
 
 ## ⚡ About Me  
