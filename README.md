@@ -1,63 +1,91 @@
-<!-- Header GIF or animated SVG -->
+<!-- Neon / Cyberpunk Animated Header -->
 <p align="center">
-  <img src="https://your-asset-url/your-cool-banner.gif" alt="Animated Tech Banner" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,2,5,10&height=250&section=header&text=YourName%20Cyberpunk%20Dev&fontSize=70"
+    alt="Neon Animated Header"
+  />
 </p>
 
-<h1 align="center">⚡Naveen Ganeshe — Code Artisan & Builder Extraordinaire</h1>
+<h1 align="center">
+  <span style="color:#00ffff">⚡</span> <span style="color:#ff00ff">Naveen Ganeshe</span> — Neon Code Alchemist <span style="color:#00ffff">⚡</span>
+</h1>
+
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=YourUsername&color=0e75b6" alt="Profile views"/>
- <img src="https://badgen.net/badge/streak/today?icon=clock&label=Active%20Today" alt="Active Today"/>
+  <img src="https://komarev.com/ghpvc/?username=NaveenGaneshe&color=00ffea" alt="Profile Views" /> &nbsp;
+  <img src="https://badgen.net/badge/Active-Today?icon=clock&label=Active%20Today&color=ff00ff" alt="Active Today" />
 </p>
 
 ---
 
-## 🧰 My Toolbelt
+## 🧰 Tech Arsenal
 
-| Language | Framework / Tools | DevOps & Cloud |
-|:--:|:--:|:--:|
-| ![Python][python] ![Rust][rust] ![Go][go] | ![React][react] ![Next.js][next] ![Tailwind][tailwind] | AWS ☁️ • Docker 🐳 • GitHub Actions 🔄 |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blueviolet?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-18-green?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-3-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-24-blue?logo=docker&logoColor=white&style=for-the-badge" />
+  <!-- Add more tools as you use them -->
+</p>
 
 ---
 
 ## 📊 GitHub Vitals
 
-[![YourName’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveenganeshe&show_icons=true&theme=radical)](https://github.com/YourUsername)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=naveenganeshe&layout=compact&theme=radical)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaveenGaneshe&show_icons=true&theme=dracula)](https://github.com/NaveenGaneshe)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenGaneshe&layout=compact&theme=dracula)](https://github.com/NaveenGaneshe)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Preview | Description |
-|---|---|---|
-| **[Smart Chatbot](https://github.com/YourUsername/SmartChatbot)** | Animated demo GIF | AI-powered chatbot that detects sentiment and responds accordingly. |
-| **[Weather Dashboard](https://github.com/YourUsername/WeatherDash)** | Live project link | Real-time weather dashboard using React + OpenWeather API. |
-| **[Terminal Portfolio](https://github.com/YourUsername/TermPorfolio)** | Live CLI-styled page | Portfolio styled to look like a terminal environment with theme switching. |
+| Project | Tech / Style | Description |
+|---------|---------------|-------------|
+| **[ProjectOne](https://github.com/NaveenGaneshe/ProjectOne)** | React · Neon UI | Short summary about what it solves or does. |
+| **[ProjectTwo](https://github.com/NaveenGaneshe/ProjectTwo)** | Python · Data / Automation | Quick description. |
+| **[ProjectThree](https://github.com/NaveenGaneshe/ProjectThree)** | Node.js · CLI / Tools | Another one. |
+| *(Add others if needed, up to ~4)* |
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> *“In the dark, we build neon bridges.”*
 
 ---
 
-## 🔗 Let's Connect
+## ⚙️ Automated Dynamic Update
 
-[![LinkedIn][linkedin_badge]][linkedin] [![Twitter][twitter_badge]][twitter] [![Website][website_badge]][website]
+To ensure parts stay fresh:
 
----
+```yaml
+# .github/workflows/update-stats.yml
 
-### ⚡ Footnotes & Badges
+name: Update README Stats
 
-[python]: https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white  
-[rust]: https://img.shields.io/badge/Rust-2021?logo=rust&logoColor=white  
-[go]: https://img.shields.io/badge/Go-1.20?logo=go&logoColor=white  
-[react]: https://img.shields.io/badge/React-18.0-61DAFB?logo=react&logoColor=black  
-[next]: https://img.shields.io/badge/Next.js-13+?logo=nextdotjs&logoColor=white  
-[tailwind]: https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwindcss&logoColor=white  
-[linkedin_badge]: https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white  
-[twitter_badge]: https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&logoColor=white  
-[website_badge]: https://img.shields.io/badge/Website-Visit-42CCF4?logo=web&logoColor=white  
+on:
+  schedule:
+    - cron: '0 0 * * *'  # daily at midnight · adjust to your timezone
+  push:
+    branches:
+      - main
 
-[linkedin]: https://linkedin.com/in/YourProfile  
-[twitter]: https://twitter.com/YourHandle  
-[website]: https://yourwebsite.com  
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update README with language stats
+        uses: DimaTc/readme-stats-updater@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit changes if any
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "chore: refresh stats" || echo "No changes to commit"
+          git push
+
+
+📬 Connect with Me
+<p align="center"> <a href="https://www.linkedin.com/in/naveen-ganeshe/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-00ffea?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /> </a> <a href="https://twitter.com/[YourHandle]"> <img src="https://img.shields.io/badge/Twitter-Follow-ff00ff?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" /> </a> <a href="https://yourwebsite.com"> <img src="https://img.shields.io/badge/Web-Portal-cyan?logo=globe&logoColor=white&style=for-the-badge" alt="Website" /> </a> </p>
