@@ -1,9 +1,15 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="100%" height="250"/>
-</p>
-<h1 align="center">🚀 Naveen Ganeshe — AI & D365 Specialist</h1>
+👉 Directly shows as a code snippet on your profile (developer-first vibe).  
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+---
+
+## ⚡ Option 3: **Animated Dev Icons Banner**
+Use a flowing banner with tech icons.  
+```md
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,dotnet,cs,angular,typescript,python,github,git,vscode&theme=dark" />
+</p>
+<h2 align="center">🚀 Naveen Ganeshe — AI Enthusiast & D365 / Power Apps Specialist</h2>
+
 
 ## ⚡ About Me  
 - 🔥 11+ years in the IT industry — solution architecture & development  
