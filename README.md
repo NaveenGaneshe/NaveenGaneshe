@@ -1,18 +1,18 @@
 <div style="text-align:center; margin-top:20px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0ea5e9&height=250&section=header&text=Dream.%20Code.%20Deploy.%20✨&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:var(--bgColor-accent-emphasis, var(--color-accent-emphasis)),100:var(--color-accent-emphasis)&height=250&section=header&text=Dream.%20Code.%20Deploy.%20✨&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
   <h2 style="
       color: #ffffff;
       font-size: 32px;
       margin-top: -40px;
       text-shadow:
-        0 0 5px #3b82f6,
-        0 0 10px #3b82f6,
-        0 0 20px #0ea5e9,
-        0 0 30px #0ea5e9,
-        0 0 40px #3b82f6,
-        0 0 55px #0ea5e9,
-        0 0 75px #3b82f6;
+        0 0 5px var(--bgColor-accent-emphasis, var(--color-accent-emphasis)),
+        0 0 10px var(--bgColor-accent-emphasis, var(--color-accent-emphasis)),
+        0 0 20px var(--color-accent-emphasis),
+        0 0 30px var(--color-accent-emphasis),
+        0 0 40px var(--bgColor-accent-emphasis, var(--color-accent-emphasis)),
+        0 0 55px var(--color-accent-emphasis),
+        0 0 75px var(--bgColor-accent-emphasis, var(--color-accent-emphasis));
       animation: pulse 2s infinite alternate;
   ">
 
@@ -24,26 +24,8 @@
   @keyframes pulse {
     0% {
       text-shadow:
-        0 0 5px #3b82f6,
-        0 0 10px #3b82f6,
-        0 0 20px #0ea5e9,
-        0 0 30px #0ea5e9,
-        0 0 40px #3b82f6,
-        0 0 55px #0ea5e9,
-        0 0 75px #3b82f6;
-    }
-    100% {
-      text-shadow:
-        0 0 10px #3b82f6,
-        0 0 20px #3b82f6,
-        0 0 30px #0ea5e9,
-        0 0 40px #0ea5e9,
-        0 0 50px #3b82f6,
-        0 0 70px #0ea5e9,
-        0 0 100px #3b82f6;
-    }
-  }
-</style>
+        0 0 5px var(--bgColor-accent-emphasis, var(--color-accent-empha
+
 
 
 
