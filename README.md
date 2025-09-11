@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,5,7&height=200&section=header&text=Naveen%20Ganeshe%20⚡&fontSize=45&fontColor=00ffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=$+Hello+World!;Welcome+to+Naveen's+Repo;>+AI+%26+D365+Developer;>+Power+Apps+%7C+Solution+Architect" />
 </p>
+
 
 ## ⚡ About Me  
 - 🔥 11+ years in the IT industry — solution architecture & development  
