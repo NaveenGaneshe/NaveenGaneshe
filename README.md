@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=$+Hello+World!;Welcome+to+Naveen's+Repo;>+AI+%26+D365+Developer;>+Power+Apps+%7C+Solution+Architect" />
+  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="100%" height="250"/>
 </p>
-
+<h1 align="center">🚀 Naveen Ganeshe — AI & D365 Specialist</h1>
 
 
 ## ⚡ About Me  
