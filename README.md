@@ -5,8 +5,8 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## ⚡ About Me  
-- 🔥 10+ years in IT industry — solution architecture & development  
-- ⚡ 8+ years with Microsoft Dynamics CRM & Power Platform  
+- 🔥 11+ years in the IT industry — solution architecture & development  
+- ⚡ 9+ years with Microsoft Dynamics CRM & Power Platform  
 - 🏆 Microsoft Certified: Power Apps, Power Automate, PCF, Solution Architect  
 - 🤖 AI Enthusiast | Bot Framework | RPA (UiPath) | Azure  
 
