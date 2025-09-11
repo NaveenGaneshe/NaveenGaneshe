@@ -1,49 +1,6 @@
-<div style="text-align:center; margin-top:20px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:var(--bgColor-accent-emphasis, var(--color-accent-emphasis)),100:var(--color-accent-emphasis)&height=250&section=header&text=Dream.%20Code.%20Deploy.%20✨&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-
-  <h2 style="
-      color: #ffffff;
-      font-size: 32px;
-      margin-top: -40px;
-      text-shadow:
-        0 0 5px var(--bgColor-accent-emphasis, var(--color-accent-emphasis)),
-        0 0 10px var(--bgColor-accent-emphasis, var(--color-accent-emphasis)),
-        0 0 20px var(--color-accent-emphasis),
-        0 0 30px var(--color-accent-emphasis),
-        0 0 40px var(--bgColor-accent-emphasis, var(--color-accent-emphasis)),
-        0 0 55px var(--color-accent-emphasis),
-        0 0 75px var(--bgColor-accent-emphasis, var(--color-accent-emphasis));
-      animation: pulse 2s infinite alternate;
-  ">
-
-    Dream. Code. Deploy. ✨
-  </h2>
-</div>
-
-<style>
-  @keyframes pulse {
-    0% {
-      text-shadow:
-        0 0 5px var(--bgColor-accent-emphasis, var(--color-accent-emphasis)),
-        0 0 10px var(--bgColor-accent-emphasis, var(--color-accent-emphasis)),
-        0 0 20px var(--color-accent-emphasis),
-        0 0 30px var(--color-accent-emphasis),
-        0 0 40px var(--bgColor-accent-emphasis, var(--color-accent-emphasis)),
-        0 0 55px var(--color-accent-emphasis),
-        0 0 75px var(--bgColor-accent-emphasis, var(--color-accent-emphasis));
-    }
-    100% {
-      text-shadow:
-        0 0 10px var(--bgColor-accent-emphasis, var(--color-accent-emphasis)),
-        0 0 20px var(--bgColor-accent-emphasis, var(--color-accent-emphasis)),
-        0 0 30px var(--color-accent-emphasis),
-        0 0 40px var(--color-accent-emphasis),
-        0 0 50px var(--bgColor-accent-emphasis, var(--color-accent-emphasis)),
-        0 0 70px var(--color-accent-emphasis),
-        0 0 100px var(--bgColor-accent-emphasis, var(--color-accent-emphasis));
-    }
-  }
-</style>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0ea5e9&height=250&section=header&text=Dream.%20Code.%20Deploy.%20✨&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 
 
