@@ -82,14 +82,3 @@
 </p>
 
 ---
-
-## ⚙️ Extras / Dynamic Enhancements
-
-- Add project screenshots / GIFs (upload them in project repos or assets folder) and use raw URL paths  
-- Use **GitHub Actions** to update README stats automatically nightly  
-- Use dark-theme friendly themes for cards / badges (radical, synthwave, dracula)  
-- Consider adding a small “Recent blog post / article” or “Recent AI experiment” section  
-
----
-
-*(Replace all “path/to/your_screenshot.png” etc. with your actual screenshot links from GitHub)*
