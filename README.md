@@ -24,8 +24,26 @@
   @keyframes pulse {
     0% {
       text-shadow:
-        0 0 5px var(--bgColor-accent-emphasis, var(--color-accent-empha
-
+        0 0 5px var(--bgColor-accent-emphasis, var(--color-accent-emphasis)),
+        0 0 10px var(--bgColor-accent-emphasis, var(--color-accent-emphasis)),
+        0 0 20px var(--color-accent-emphasis),
+        0 0 30px var(--color-accent-emphasis),
+        0 0 40px var(--bgColor-accent-emphasis, var(--color-accent-emphasis)),
+        0 0 55px var(--color-accent-emphasis),
+        0 0 75px var(--bgColor-accent-emphasis, var(--color-accent-emphasis));
+    }
+    100% {
+      text-shadow:
+        0 0 10px var(--bgColor-accent-emphasis, var(--color-accent-emphasis)),
+        0 0 20px var(--bgColor-accent-emphasis, var(--color-accent-emphasis)),
+        0 0 30px var(--color-accent-emphasis),
+        0 0 40px var(--color-accent-emphasis),
+        0 0 50px var(--bgColor-accent-emphasis, var(--color-accent-emphasis)),
+        0 0 70px var(--color-accent-emphasis),
+        0 0 100px var(--bgColor-accent-emphasis, var(--color-accent-emphasis));
+    }
+  }
+</style>
 
 
 
