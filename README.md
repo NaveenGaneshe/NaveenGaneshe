@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=Naveen+Ganeshe;AI+Enthusiast+⚡;D365+%26+Power+Apps+Specialist;Future+Tech+Architect" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,5,7&height=200&section=header&text=Naveen%20Ganeshe%20⚡&fontSize=45&fontColor=00ffff&animation=fadeIn" />
 </p>
-
 
 ## ⚡ About Me  
 - 🔥 11+ years in the IT industry — solution architecture & development  
