@@ -1,91 +1,68 @@
-<!-- Neon / Cyberpunk Animated Header -->
+<!-- Animated Vibrant Banner -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,2,5,10&height=250&section=header&text=YourName%20Cyberpunk%20Dev&fontSize=70"
-    alt="Neon Animated Header"
+    src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,5,30&section=header&height=200&fontSize=60&text=[YourName]·AI-&-D365 Dev"
+    alt="Vibrant AI & D365 Dev Banner"
   />
 </p>
 
 <h1 align="center">
-  <span style="color:#00ffff">⚡</span> <span style="color:#ff00ff">Naveen Ganeshe</span> — Neon Code Alchemist <span style="color:#00ffff">⚡</span>
+  🚀 **[YourName]** — AI Enthusiast · D365 & Power Apps Wizard
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NaveenGaneshe&color=00ffea" alt="Profile Views" /> &nbsp;
-  <img src="https://badgen.net/badge/Active-Today?icon=clock&label=Active%20Today&color=ff00ff" alt="Active Today" />
+  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=blueviolet" alt="Profile Views" /> &nbsp;
+  <img src="https://badgen.net/badge/Active-Today?icon=clock&label=Active%20Today&color=cyan" alt="Active Today" />
 </p>
 
 ---
 
-## 🧰 Tech Arsenal
+## 🧠 Core Competencies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blueviolet?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-18-green?logo=nodedotjs&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TailwindCSS-3-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-24-blue?logo=docker&logoColor=white&style=for-the-badge" />
-  <!-- Add more tools as you use them -->
+  <img src="https://img.shields.io/badge/AI-/ML-Python-#e535ab?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power_Apps-Development-#0078d4?logo=microsoft%20powerapps&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/D365-/Dataverse-#008272?logo=microsoft%20dynamics365&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power_Automate-Flows-#0f6ab4?logo=microsoft%20powerautomate&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power_BI-Dashboards-#ed1c24?logo=powerbi&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure-Cloud-#007fff?logo=azure&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
-## 📊 GitHub Vitals
+## 📊 GitHub Activity & Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaveenGaneshe&show_icons=true&theme=dracula)](https://github.com/NaveenGaneshe)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenGaneshe&layout=compact&theme=dracula)](https://github.com/NaveenGaneshe)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=dracula&count_private=true)](https://github.com/[YourUsername])  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=dracula)](https://github.com/[YourUsername])  
 
----
-
-## 🚀 Featured Projects
-
-| Project | Tech / Style | Description |
-|---------|---------------|-------------|
-| **[ProjectOne](https://github.com/NaveenGaneshe/ProjectOne)** | React · Neon UI | Short summary about what it solves or does. |
-| **[ProjectTwo](https://github.com/NaveenGaneshe/ProjectTwo)** | Python · Data / Automation | Quick description. |
-| **[ProjectThree](https://github.com/NaveenGaneshe/ProjectThree)** | Node.js · CLI / Tools | Another one. |
-| *(Add others if needed, up to ~4)* |
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=synthwave)](https://github.com/[YourUsername])
 
 ---
 
-> *“In the dark, we build neon bridges.”*
+## 🚀 Showcase Projects
+
+| Project | What It Uses / Focus | Why It’s Cool |
+|---|------------------------|----------------|
+| **[AI-ChatBot for D365](https://github.com/[YourUsername]/AI-ChatBot-for-D365)** | Power Apps + Azure OpenAI | Generates smart assist responses inside D365 |
+| **[SmartFlow Automation](https://github.com/[YourUsername]/SmartFlowAutomation)** | Power Automate + Data Science | Auto-processing of leads, scoring, alerts |
+| **[Insight Dashboard](https://github.com/[YourUsername]/InsightDashboard-BI)** | Power BI + Dataverse + ML | Real-time models + visual insights for business teams |
 
 ---
 
-## ⚙️ Automated Dynamic Update
+> *“When platforms learn and AI evolves, possibilities become inevitable.”*
 
-To ensure parts stay fresh:
+---
 
-```yaml
-# .github/workflows/update-stats.yml
+## 🔗 Connect & Learn Together
 
-name: Update README Stats
-
-on:
-  schedule:
-    - cron: '0 0 * * *'  # daily at midnight · adjust to your timezone
-  push:
-    branches:
-      - main
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Update README with language stats
-        uses: DimaTc/readme-stats-updater@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Commit changes if any
-        run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "actions@github.com"
-          git add README.md
-          git commit -m "chore: refresh stats" || echo "No changes to commit"
-          git push
-
-
-📬 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/naveen-ganeshe/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-00ffea?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /> </a> <a href="https://twitter.com/[YourHandle]"> <img src="https://img.shields.io/badge/Twitter-Follow-ff00ff?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" /> </a> <a href="https://yourwebsite.com"> <img src="https://img.shields.io/badge/Web-Portal-cyan?logo=globe&logoColor=white&style=for-the-badge" alt="Website" /> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/[YourProfile]">
+    <img src="https://img.shields.io/badge/LinkedIn-Network-#0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/[YourHandle]">
+    <img src="https://img.shields.io/badge/Twitter-AI-Chats-#1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Blog-Tech-Insights-#4CAF50?logo=markdown&logoColor=white&style=for-the-badge" alt="Blog" />
+  </a>
+</p>
