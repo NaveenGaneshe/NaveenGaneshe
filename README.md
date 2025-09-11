@@ -1,68 +1,74 @@
-<!-- Animated Vibrant Banner -->
+<!-- Animated Vibrant Header -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,5,30&section=header&height=200&fontSize=60&text=[YourName]·AI-&-D365 Dev"
-    alt="Vibrant AI & D365 Dev Banner"
+    src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,4,8,12&height=220&section=header&fontSize=65&text=NaveenGaneshe·AI-/-D365/PowerApps"
+    alt="AI / D365 Dev – NaveenGaneshe"
   />
 </p>
 
-<h1 align="center">
-  🚀 **[YourName]** — AI Enthusiast · D365 & Power Apps Wizard
-</h1>
+<h1 align="center">🚀 Naveen Ganeshe — AI Enthusiast & D365 / Power Apps Expert</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=blueviolet" alt="Profile Views" /> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=NaveenGaneshe&color=00ffea" alt="Profile Views" /> &nbsp;
   <img src="https://badgen.net/badge/Active-Today?icon=clock&label=Active%20Today&color=cyan" alt="Active Today" />
 </p>
 
 ---
 
-## 🧠 Core Competencies
+## 🛠 Core Skills & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-/ML-Python-#e535ab?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power_Apps-Development-#0078d4?logo=microsoft%20powerapps&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/D365-/Dataverse-#008272?logo=microsoft%20dynamics365&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power_Automate-Flows-#0f6ab4?logo=microsoft%20powerautomate&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power_BI-Dashboards-#ed1c24?logo=powerbi&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Azure-Cloud-#007fff?logo=azure&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power_Apps-&-Dataverse-#0078d4?logo=microsoft_powerapps&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/D365-CE-Customization-#008272?logo=microsoft_dynamics365&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power_Automate-Flows-#00ffff?logo=microsoft_powerautomate&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web_API-Integration-#f0db4f?logo=webapi&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-/JScript-#007acc?logo=typescript&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
-## 📊 GitHub Activity & Stats
+## 📊 Activity & Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=dracula&count_private=true)](https://github.com/[YourUsername])  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=dracula)](https://github.com/[YourUsername])  
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=synthwave)](https://github.com/[YourUsername])
+[![NaveenGaneshe’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaveenGaneshe&show_icons=true&theme=dracula&count_private=true)](https://github.com/NaveenGaneshe)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenGaneshe&layout=compact&theme=dracula)](https://github.com/NaveenGaneshe)
 
 ---
 
-## 🚀 Showcase Projects
+## 🚀 Projects & Demos
 
-| Project | What It Uses / Focus | Why It’s Cool |
-|---|------------------------|----------------|
-| **[AI-ChatBot for D365](https://github.com/[YourUsername]/AI-ChatBot-for-D365)** | Power Apps + Azure OpenAI | Generates smart assist responses inside D365 |
-| **[SmartFlow Automation](https://github.com/[YourUsername]/SmartFlowAutomation)** | Power Automate + Data Science | Auto-processing of leads, scoring, alerts |
-| **[Insight Dashboard](https://github.com/[YourUsername]/InsightDashboard-BI)** | Power BI + Dataverse + ML | Real-time models + visual insights for business teams |
-
----
-
-> *“When platforms learn and AI evolves, possibilities become inevitable.”*
+| Project | Demo / Screenshot | What It Does |
+|---|--------------------|------------------|
+| **[PCF-Controls](https://github.com/NaveenGaneshe/PCF-Controls)** | <br> ![PCF Controls Demo](https://raw.githubusercontent.com/NaveenGaneshe/PCF-Controls/main/demo-screenshot.png) <br> | Custom UI controls built using the Power Apps Component Framework, enhancing UI/UX in D365 forms. Adds custom visualizations and interactivity. |
+| **[DynamicCRMWebAPI](https://github.com/NaveenGaneshe/DynamicCRMWebAPI)** | <br> ![Dynamic Web API Demo](https://raw.githubusercontent.com/NaveenGaneshe/DynamicCRMWebAPI/main/demo.gif) <br> | Simplifies and structures calls to the Dynamics CRM / Dataverse Web API — for data retrieval, CRUD operations, and system integrations. |
 
 ---
 
-## 🔗 Connect & Learn Together
+> *“Empowering Dynamics with AI and code — turning platform into possibility.”*
+
+---
+
+## 🔗 Connect & Follow
 
 <p align="center">
-  <a href="https://linkedin.com/in/[YourProfile]">
-    <img src="https://img.shields.io/badge/LinkedIn-Network-#0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/naveen-ganeshe">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/[YourHandle]">
-    <img src="https://img.shields.io/badge/Twitter-AI-Chats-#1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Blog-Tech-Insights-#4CAF50?logo=markdown&logoColor=white&style=for-the-badge" alt="Blog" />
+    <img src="https://img.shields.io/badge/Twitter-AI-Updates-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"/>
   </a>
 </p>
+
+---
+
+## ⚙️ Tools & Enhancements You Can Add
+
+- Include **project screenshot images or animated GIFs** under each project (as I did above).  
+- Use dark-mode friendly themes for stats (like `dracula`) so cards/glow / contrast look sharp in both light & dark GitHub themes.  
+- Use GitHub Actions to auto-update README stats or show recent activity.  
+- Maybe add a short “Latest blog post” or “AI article I wrote” section if you write content.  
+
+---
+
+If you want, I can build a **fully rendered preview version** (with screenshots you send me) so you can see how it looks real-time before pushing it.
+::contentReference[oaicite:3]{index=3}
