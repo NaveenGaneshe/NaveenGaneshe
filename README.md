@@ -31,7 +31,7 @@
 
 | Project | Demo | Description |
 |---------|------|-------------|
-| **[PCF-Controls](https://github.com/NaveenGaneshe/PCF-Controls)** | <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="250"/> | Custom UI controls for Power Apps with cyberpunk-styled UX. |
+| **[PCF-Controls](https://github.com/NaveenGaneshe/PCF-Controls)** | <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="250"/> | Custom UI controls for Power Apps. |
 | **[DynamicCRMWebAPI](https://github.com/NaveenGaneshe/DynamicCRMWebAPI)** | <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/> | Utility library for simplifying Web API integrations in Dynamics CRM. |
 
 ---
