@@ -46,10 +46,10 @@
 
 ## 🔗 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/naveen-ganeshe">
+  <a target="_blank" href="https://www.linkedin.com/in/naveen-ganeshe">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:n.ganeshe@yahoo.com">
+  <a target="_blank" href="mailto:n.ganeshe@yahoo.com">
     <img src="https://img.shields.io/badge/Email-Me-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
