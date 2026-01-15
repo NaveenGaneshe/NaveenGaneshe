@@ -37,9 +37,11 @@
 ---
 
 ## 🎓 Certifications  
+- Microsoft Certified: Azure Data Scientist Associate
+- Microsoft Certified: Azure AI Engineer Associate
 - Microsoft Certified Professional — Azure & Web Services  
-- Power Platform Functional Consultant (PL-200, PL-900)  
-- Power Platform Solution Architect (PL-600)  
+- Power Platform Functional Consultant
+- Power Platform Solution Architect
 - Microsoft Certified Trainer  
 
 ---
