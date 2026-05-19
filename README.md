@@ -1,15 +1,23 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,25:0f172a,50:2563eb,75:7c3aed,100:06b6d4&text=NAVEEN%20GANESHE&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Architect%20•%20Dynamics%20365%20Expert%20•%20Cloud%20Engineer&descAlignY=60&descSize=20"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,20:0f172a,50:2563eb,80:7c3aed,100:06b6d4&text=NAVEEN%20GANESHE&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Architect%20•%20Cloud%20Engineer%20•%20Solution%20Architect&descAlignY=60&descSize=20"/>
+
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+AI-Powered+Enterprise+Systems+🚀;Dynamics+365+%2B+Azure+AI+Expert+⚡;Cloud+Automation+%7C+Copilot+%7C+AI+☁️;Dream.+Code.+Deploy.+Repeat.+✨"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1200&lines=Building+AI-Powered+Enterprise+Systems+🚀;Dynamics+365+%2B+Azure+AI+Expert+⚡;Generative+AI+%7C+Automation+%7C+Cloud+☁️;Dream.+Code.+Deploy.+Repeat.+✨"/>
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NaveenGaneshe&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/NaveenGaneshe?style=for-the-badge&color=00FFFF&labelColor=111827"/>
-  <img src="https://img.shields.io/github/stars/NaveenGaneshe?style=for-the-badge&color=FFD700&labelColor=111827"/>
+
+<img src="https://komarev.com/ghpvc/?username=NaveenGaneshe&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/NaveenGaneshe?style=for-the-badge&color=00FFFF&labelColor=111827"/>
+
+<img src="https://img.shields.io/github/stars/NaveenGaneshe?style=for-the-badge&color=FFD700&labelColor=111827"/>
+
 </p>
 
 ---
@@ -18,25 +26,27 @@
 
 <table>
 <tr>
-<td width="55%">
+
+<td width="50%">
+
+## 🧠 SYSTEM STATUS
 
 ```yaml
 Name: Naveen Ganeshe
-Role: Solution Architect
-Experience: 11+ Years
+Role: AI Architect
 
-Specialization:
+Experience:
+  - 11+ Years
+
+Expertise:
   - Dynamics 365
   - Power Platform
   - Azure AI
+  - OpenAI
   - Copilot
   - Enterprise Automation
   - Cloud Architecture
   - AI Voice Agents
-  - Bot Framework
-
-Mission:
-  Building scalable AI-first enterprise systems.
 
 Status:
   BUILDING THE FUTURE 🚀
@@ -44,11 +54,12 @@ Status:
 
 </td>
 
-<td width="45%" align="center">
+<td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3I5MXE0bDBlN2t2Y2NlYzI4aDB4b3R2NW9hMjd0cHV6bHFvNGJpNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="320"/>
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="320"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -57,12 +68,14 @@ Status:
 # 🚀 TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,dotnet,cs,python,react,nodejs,ts,js,aws,docker,kubernetes,git,github,vscode,visualstudio,postgres,mongodb,redis"/>
+
+<img src="https://skillicons.dev/icons?i=azure,dotnet,cs,python,react,nodejs,js,ts,docker,kubernetes,aws,git,github,vscode,visualstudio,mongodb,postgres"/>
+
 </p>
 
 ---
 
-# 🌌 AI • CLOUD • ENTERPRISE
+# 🌌 AI + CLOUD UNIVERSE
 
 <p align="center">
 
@@ -75,6 +88,8 @@ Status:
 <img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Copilot-111827?style=for-the-badge&logo=microsoftcopilot&logoColor=00FFFF"/>
+
+<img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=chainlink&logoColor=00FF99"/>
 
 <img src="https://img.shields.io/badge/UiPath-111827?style=for-the-badge&logo=uipath&logoColor=FF6C37"/>
 
@@ -93,16 +108,18 @@ Status:
 
 Modern Power Apps controls built for enterprise-grade experiences.
 
-### Highlights
+### 🔹 Features
 - Fluent UI
-- Responsive Design
 - Reusable Components
+- Responsive Design
 - Dynamics 365 Ready
 
 <p align="center">
 
 <a href="https://github.com/NaveenGaneshe/PCF-Controls">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-00FFFF?style=for-the-badge&logo=github&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00FFFF?style=for-the-badge&logo=github&logoColor=black"/>
+
 </a>
 
 </p>
@@ -113,9 +130,9 @@ Modern Power Apps controls built for enterprise-grade experiences.
 
 ## 🚀 Dynamic CRM Web API
 
-Framework for simplifying CRM integrations and enterprise APIs.
+Framework for simplifying CRM integrations.
 
-### Highlights
+### 🔹 Features
 - Clean Architecture
 - API Wrapper
 - Enterprise Security
@@ -124,7 +141,9 @@ Framework for simplifying CRM integrations and enterprise APIs.
 <p align="center">
 
 <a href="https://github.com/NaveenGaneshe/DynamicCRMWebAPI">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VIEW_PROJECT-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </p>
@@ -156,15 +175,15 @@ Framework for simplifying CRM integrations and enterprise APIs.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NaveenGaneshe&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaveenGaneshe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenGaneshe&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenGaneshe&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenGaneshe&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenGaneshe&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </p>
 
@@ -174,29 +193,13 @@ Framework for simplifying CRM integrations and enterprise APIs.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NaveenGaneshe&theme=algolia&no-frame=true&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NaveenGaneshe&theme=algolia&no-frame=true&margin-w=10"/>
 
 </p>
 
 ---
 
-# 🏅 CERTIFICATIONS
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Azure_AI_Engineer-111827?style=for-the-badge&logo=microsoftazure&logoColor=00FFFF"/>
-
-<img src="https://img.shields.io/badge/Azure_Data_Scientist-111827?style=for-the-badge&logo=microsoftazure&logoColor=00FFFF"/>
-
-<img src="https://img.shields.io/badge/Power_Platform_Solution_Architect-111827?style=for-the-badge&logo=powerapps&logoColor=FF00FF"/>
-
-<img src="https://img.shields.io/badge/Microsoft_Certified_Trainer-111827?style=for-the-badge&logo=microsoft&logoColor=white"/>
-
-</p>
-
----
-
-# 💻 TERMINAL MODE
+# ⚔️ TERMINAL MODE
 
 ```bash
 > boot ai_architect.exe
@@ -217,15 +220,21 @@ SYSTEM STATUS: OPERATIONAL 🚀
 <p align="center">
 
 <a href="https://www.linkedin.com/in/naveen-ganeshe">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="mailto:n.ganeshe@yahoo.com">
-  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <a href="https://github.com/NaveenGaneshe">
-  <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </p>
@@ -253,9 +262,7 @@ while True:
 ---
 
 <p align="center">
-  <b>⚡ Thanks for visiting! Let's build something amazing together 🚀</b>
-</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:06b6d4,50:7c3aed,100:020617"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:06b6d4,50:7c3aed,100:020617"/>
+
 </p>
