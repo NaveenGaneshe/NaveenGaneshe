@@ -262,7 +262,7 @@ while True:
 ---
 
 <p align="center">
-
+<b>Thanks for visiting! Let’s build something amazing together 🚀</b>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:06b6d4,50:7c3aed,100:020617"/>
 
 </p>
