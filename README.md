@@ -249,7 +249,7 @@ while True:
 ---
 
 <p align="center">
-
+ <b>Thanks for visiting! Let’s build something amazing together 🚀</b>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
