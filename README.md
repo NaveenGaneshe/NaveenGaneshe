@@ -20,7 +20,7 @@
 <tr>
 <td width="55%">
 
-
+```yaml
 Name: Naveen Ganeshe
 Role: Solution Architect
 Experience: 11+ Years
@@ -41,7 +41,7 @@ Mission:
 
 Philosophy:
   Dream. Code. Deploy. Repeat.
-
+```
 
 </td>
 <td width="45%" align="center">
@@ -163,6 +163,7 @@ Utility framework for simplifying Dynamics CRM integrations.
 
 ## 💻 TERMINAL MODE
 
+```bash
 > Initializing AI Architect Profile...
 
 ✔ Azure Connected
@@ -172,6 +173,7 @@ Utility framework for simplifying Dynamics CRM integrations.
 ✔ Cloud Infrastructure Active
 
 Status: BUILDING THE FUTURE 🚀
+```
 
 ---
 
