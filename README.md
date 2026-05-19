@@ -1,4 +1,4 @@
-````md
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:2563eb,100:06b6d4&text=Naveen%20Ganeshe&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Solution%20Architect%20•%20AI%20Engineer%20•%20Dynamics%20365%20Expert&descAlignY=58&descSize=18"/>
 </p>
@@ -11,7 +11,6 @@
 
 # 👨‍💻 About Me
 
-```yaml
 name: Naveen Ganeshe
 role: Solution Architect
 experience: 11+ Years
@@ -34,7 +33,6 @@ passion:
   - AI-first products
   - Clean architecture
   - Modern UI/UX experiences
-````
 
 ---
 
@@ -161,13 +159,13 @@ https://github.com/NaveenGaneshe/DynamicCRMWebAPI
 
 # 🧬 Current Focus
 
-```txt
+
 🚀 AI Voice Agents
 ⚡ Enterprise Copilot Integrations
 ☁️ Azure AI Architecture
 🤖 Autonomous Workflows
 🧠 Generative AI Solutions
-```
+
 
 ---
 
