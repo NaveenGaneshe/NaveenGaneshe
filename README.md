@@ -225,11 +225,6 @@ SYSTEM STATUS: OPERATIONAL 🚀
 
 </a>
 
-<a href="mailto:n.ganeshe@yahoo.com">
-
-<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
 
 <a href="https://github.com/NaveenGaneshe">
 
